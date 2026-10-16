@@ -3,6 +3,11 @@
 All notable changes to this project are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.1.1] - 2026-10-16
+
+### Changed
+- The island now stays on screen when no agent is running (sleeping mascot, clock, weather) and no longer quits itself after being auto-started. The old behavior is available as Settings → "When no agent is running" → Hide, or from the tray menu.
+
 ## [1.1.0] - 2026-10-16
 
 ### Added
