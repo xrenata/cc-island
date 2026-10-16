@@ -1,6 +1,6 @@
 {
   "name": "cc-island",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Dynamic Island-style Windows overlay for Claude Code sessions: live status, permission approvals, and Spotify controls.",
   "main": "main.js",
   "license": "MIT",

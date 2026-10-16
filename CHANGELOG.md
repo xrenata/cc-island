@@ -3,7 +3,7 @@
 All notable changes to this project are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [Unreleased]
+## [1.1.0] - 2026-10-16
 
 ### Added
 - **Other AI coding agents.** OpenAI Codex CLI, Gemini CLI and Cursor sessions show up next to Claude Code, each with its own label. Codex approvals work from the island. Hooks are connected per agent from Settings → AI tools, or with `node install-hooks.js --agent=<name>`.
